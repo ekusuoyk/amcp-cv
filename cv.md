@@ -5,4 +5,4 @@ tg: @aizetcu; mail: aizetcumeow@gmail.com
 Умею самостоятельно искать решения, доводить решение задачи до конца, адекватно воспринимать критику и понимаю ответственность работы  
 Владею Python и изучаю C++  
 Владею английским языком на уровне A2  
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/c64a8283-e72c-43be-a977-4e07faca5d99" />
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/0ed37fe5-e592-4bcd-909a-3ae255b8fe38" />  
